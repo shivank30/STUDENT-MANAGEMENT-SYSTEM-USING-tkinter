@@ -12,3 +12,5 @@
  10.Command python -F filename.py
  
 ## SCREENSHOTS
+![image](https://github.com/shivank30/STUDENT-MANAGEMENT-SYSTEM-USING-tkinter/blob/master/stu_man.png)
+![image](https://github.com/shivank30/STUDENT-MANAGEMENT-SYSTEM-USING-tkinter/blob/master/Screenshot%20(35).png)
